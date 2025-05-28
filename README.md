@@ -1,6 +1,7 @@
 # Stage_cils
 
-cil_model/\\
+```
+cil_model/
 │
 ├── main.py                            # Script principal (lance les simulations, affiche)
 ├── config.py                          # Paramètres globaux et presets de systèmes
@@ -32,3 +33,4 @@ cil_model/\\
 └── utils/
     ├── __init__.py
     └── profiler.py                   # Mesure du temps, affichage du lagrangien, debug
+```
