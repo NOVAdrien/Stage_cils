@@ -1,6 +1,6 @@
 # Stage_cils
 
-cil_model/
+cil_model/\\
 │
 ├── main.py                            # Script principal (lance les simulations, affiche)
 ├── config.py                          # Paramètres globaux et presets de systèmes
